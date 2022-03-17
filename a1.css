@@ -1,0 +1,290 @@
+body
+{
+	background-color: #33ff77;
+}
+.navbar
+{
+	background-color: black;
+	border-radius: 10px;
+}
+.navbar ul
+{
+	overflow: auto;
+}
+.navbar li{
+	float: left;
+	list-style: none;
+	margin:13px 20px;
+}
+.navbar li a
+{
+	padding:3px 3px;
+	text-decoration: none;
+	color: white;
+}
+.navbar li a:hover{color: red;}
+.search
+{
+	float: right;
+	color: white;
+	padding:13px 20px;
+}
+.navbar input
+{
+	border:0px solid black;
+	border-radius: 8px;
+	padding: 3px 17px;
+	width: 250px;
+}
+.name
+{
+	text-align: center;
+	font-size: 50px;
+	font-family: "Elephant";
+	font-weight: bold;
+	margin-top: 8px;
+}
+.marquee
+{
+	direction: left;
+	behavior: alternate;
+	scrollamount:15;
+	bgcolor:red; 
+	width:90%; 
+	height:80%;
+	margin-top: -100px; 
+	margin-left: 80px; 
+	border-radius: 8px;
+}
+.marquee p
+{
+	font-size:5; 
+	font-style:Arial; 
+	font-color:yellow;
+}
+.img1
+{
+	border:1px solid white; 
+	border-radius:60px; 
+	margin-top: -100px;
+	height:110px; 
+	width:120px;
+}
+.img2
+{
+	border:1px solid white; 
+	border-radius: 80px; 
+	margin-top: 5px; 
+	margin-left:1135px;
+	height:200px; 
+	width:200px;
+}
+.img3
+{
+	border:1px solid white; 
+	margin-top: 80px; 
+	margin-left: -6px; 
+	height:500px; 
+	width:1345px;
+}
+.img4
+{
+	width:900px; 
+	height:350px;
+	margin-left: 40px; 
+	margin-top: -5px;
+}
+.img5
+{
+	height:350px;
+	width:350px;
+	margin-top: -5px; 
+	margin-left:-4px;
+}
+.abc
+{
+	height: 100px;
+	width: 150px;
+	background-color: #0000ff;
+	border-radius: 160px;
+	margin-top: -215px;
+	margin-left: 15px;
+	padding-top: 40px;
+	padding-bottom: -10px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.pqr
+{
+	height: 120px;
+	width: 160px;
+	background-color: #ff0000;
+	border-radius: 170px;
+	margin-top: -90px;
+	margin-left: 140px;
+	padding-top: 40px;
+	padding-bottom: -10px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.xyz
+{
+	height: 100px;
+	width: 150px;
+	background-color: #008000;
+	border-radius: 160px;
+	margin-top: -215px;
+	margin-left: 280px;
+	padding-top: 40px;
+	padding-bottom: -10px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.klm
+{
+	height: 100px;
+	width: 140px;
+	background-color: #000000;
+	border-radius: 160px;
+	margin-top: -45px;
+	margin-left: 380px;
+	padding-top: 30px;
+	padding-bottom: -10px;
+	text-align: center;
+	color: white;
+	font-size: 28px;
+}
+.ghi
+{
+	height: 120px;
+	width: 150px;
+	background-color: #ff8000 ;
+	border-radius: 160px;
+	margin-top: -218px;
+	margin-left: 480px;
+	padding-top: 20px;
+	padding-bottom: -25px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.aa
+{
+	height: 120px;
+	width: 150px;
+	background-color: #ff0066 ;
+	border-radius: 160px;
+	margin-top: -75px;
+	margin-left: 605px;
+	padding-top: 20px;
+	padding-bottom: -15px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.bb
+{
+	height: 120px;
+	width: 150px;
+	background-color: #ffff00 ;
+	border-radius: 160px;
+	margin-top: -200px;
+	margin-left: 730px;
+	padding-top: 20px;
+	padding-bottom: -15px;
+	text-align: center;
+	color: orange;
+	font-size: 25px;
+}
+.cc
+{
+	height: 120px;
+	width: 150px;
+	background-color: #660066 ;
+	border-radius: 160px;
+	margin-top: -75px;
+	margin-left: 850px;
+	padding-top: 20px;
+	padding-bottom: -15px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.dd
+{
+	height: 120px;
+	width: 150px;
+	background-color: #66ff33;
+	border-radius: 160px;
+	margin-top: -200px;
+	margin-left: 970px;
+	padding-top: 20px;
+	padding-bottom: -15px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.bottom
+{
+	position: relative;
+	height:550px;
+	width:1326px;
+	border:1px solid black;
+	border-radius: 5px;
+	background-color: black;
+	margin-left: -8px;
+	font-family: "Arial";
+	color: white;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+.table1
+{
+	border:0px; 
+	width:800px; 
+	height:500px; 
+	border-spacing:0; 
+	border-color:red;
+}
+.top td
+{
+	color:red;
+}
+.bottom td a
+{
+	text-decoration: none;
+	color: white;
+}
+.bottom td a:hover{color:blue;}
+.table2 
+{
+	border:1px; 
+	height:500px; 
+	width:1px; 
+	border-spacing:0; 
+	border-color:white;
+	margin-left: 820px; 
+	margin-top: -500px;
+}
+.table3
+{
+	border:0px; 
+	height:300px; 
+	width:400px; 
+	border-spacing:0; 
+	border-color:white;
+	margin-left: 860px; 
+	margin-top: -520px;
+}
+.red
+{
+	color: red;
+}
+.blue
+{
+	color:blue;
+}
